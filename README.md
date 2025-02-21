@@ -122,7 +122,7 @@ This project is mainly developed by the [Artfrom Games](https://github.com/Artfo
 
 <img src="https://raw.githubusercontent.com/ArtformGames/.github/master/logo/logo_full_317x117.png" alt="ArtformGames Logo">
 
-<img src="https://ns.artform.cn/logo/logo_full.svg" width="317px" height="117px" alt="ArtformGames Logo">
+<img src="https://raw.githubusercontent.com/ArtformGames/.github/master/logo/logo_full.svg" width="317px" height="117px" alt="ArtformGames Logo">
 
 Many thanks to Jetbrains for kindly providing a license for us to work on this and other open-source projects.  
 
